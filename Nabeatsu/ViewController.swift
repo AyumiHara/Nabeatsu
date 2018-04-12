@@ -57,6 +57,7 @@ class ViewController: UIViewController {
         number = number + 1
         countLabel.text = String(number)
         
+        
         if isAho() == true {
             
             faceLabel.text = "ﾍ(ﾟ∀ﾟﾍ)ｱﾋｬ"
